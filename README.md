@@ -8,7 +8,7 @@ Este projeto demonstra a implementação de autenticação e autorização com *
 
 ## Tecnologias Utilizadas
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3.x**
 - **Spring Security**
 - **JWT (JSON Web Token)**
